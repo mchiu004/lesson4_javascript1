@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 26, 2017
 
 ### Student Name:  
-(First and Last Name)
+Maxwell Chiu
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, student will use Javascript to create a monthly expense calculator application. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mchiu004.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Basic Javascript added to a web page.
+2. Storing and retrieveing data using variables.
+3. How to use development tool.
 
